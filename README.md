@@ -29,16 +29,3 @@ This repository aims to transform theoretical Java knowledge into practice throu
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally on your machine:
-
-### Prerequisites
-* [Java Development Kit (JDK 17+)](https://www.oracle.com/java/technologies/downloads/)
-* Any IDE or code editor (VS Code, IntelliJ IDEA, Eclipse)
-
-### Installation & Execution
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/java-core-journey.git](https://github.com/your-username/java-core-journey.git)
